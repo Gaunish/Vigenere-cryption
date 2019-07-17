@@ -1,0 +1,7 @@
+Check the key provided
+
+if key is valid
+take string from user
+cipher the string
+
+print the crypted string
